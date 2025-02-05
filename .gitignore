@@ -1,0 +1,9 @@
+# Security: Ignore sensitive files
+filekey.key
+.env
+decrypted_log.txt
+
+# Logs & Cache
+*.log
+__pycache__/
+*.pyc
